@@ -20,6 +20,6 @@ public class pruebaArreglo {
         Arreglo.sumarLista(numeros); 
         Arreglo.buscarMayor(arreglos);
         Arreglo.cuentaVocales("Pirulo");
-        Arreglo.cuentaCaracter("Zaraza", 'b');
+        Arreglo.cuentaCaracter("Zaraza", 'z');
 }
 }
