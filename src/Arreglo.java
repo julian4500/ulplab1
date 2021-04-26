@@ -54,7 +54,7 @@ public class Arreglo {
        for (int i=0;i<cadena.length();i++){
            char b = cadena.charAt(i);
            if (a==b)
-               cantRepet++;
+               cantRepet++; //zaraza commit
        }
         System.out.println("La cantidad de caracteres es "+cantRepet);
                 return cantRepet;
