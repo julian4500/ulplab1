@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="MartinezJuliantp5">
+  <ClassDiagramComponents>
+    <Class name="Arreglo" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="sumarLista" returnType="void" visibility="public" isStatic="true">
+          <Argument type="int[]" name="uni"/>
+        </Method>
+        <Method name="buscarMayor" returnType="int" visibility="public" isStatic="true">
+          <Argument type="int[][]" name="bidi"/>
+        </Method>
+        <Method name="cuentaVocales" returnType="int" visibility="public" isStatic="true">
+          <Argument type="String" name="cadena"/>
+        </Method>
+        <Method name="cuentaCaracter" returnType="int" visibility="public" isStatic="true">
+          <Argument type="String" name="cadena"/>
+          <Argument type="char" name="a"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="pruebaArreglo" package="" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
