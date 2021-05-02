@@ -10,6 +10,7 @@
  */
 public class pruebaArreglo {
 
+    
     /**
      * @param args the command line arguments
      */
